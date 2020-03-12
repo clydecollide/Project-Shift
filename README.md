@@ -86,7 +86,7 @@ const checkInArray = (arr,value) => {
 
 
 
-Full disclosure: everything after this is with the help of a coder friend and his co-worker 
+Full disclosure: For challenge #6, everything after this is done with the help of a coder friend and his co-worker 
 going way over my head with maps. I could not figure out how to replicate the result as 
 it is listed and not in alphabetical order.
 
