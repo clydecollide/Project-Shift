@@ -1,4 +1,4 @@
-# Project-Shift
+# Project-Shift Coding Challenge
 
 CHALLENGE #1
 ```
